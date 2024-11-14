@@ -40,11 +40,12 @@ Passionate about continuous improvement and process automation, focusing on boos
   <img src="https://img.shields.io/badge/Gmail%3A%20bryn.acuna7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto">
   </a>
   
-  <a href="www.linkedin.com/in/bryan-acuña-as12b7" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&link=www.linkedin.com%2Fin%2Fbryan-acu%C3%B1a-as12b7">
-  </a>
+   <a href="https://www.linkedin.com/in/bryan-acu%C3%B1a-as12b7/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
 </p>
 
+ 
 
 
 
